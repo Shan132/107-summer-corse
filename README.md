@@ -9,3 +9,5 @@ Data Science Programming
     1. Create GitHub account
     2. Set up README.md file
     3. Install GitHub Desktop
+  * Homework
+    
