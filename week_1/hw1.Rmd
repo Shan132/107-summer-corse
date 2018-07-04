@@ -24,5 +24,3 @@ summary(cars)
 plot(pressure)
 ```
 
-
-## (file:///C:/Users/ASUS/Desktop/123.html)
